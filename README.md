@@ -20,4 +20,4 @@
 Python · PyTorch · OpenCV · Ultralytics YOLO · pandas · scikit-learn · librosa
 
 **Contact**
-- ⟪이메일 확인 필요⟫
+- 5174kim@kakao.com
